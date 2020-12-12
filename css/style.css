@@ -1,0 +1,31 @@
+html{
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+/* ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+margin-right:75% ; 
+} */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: green;
+}
+.content{
+    overflow-x: hidden;
+    width: 100%;
+}
+span {
+    color: white;
+}
+span:nth-child(3) {
+    margin-right:80%;
+}
+img {
+    width: 100%;
+}
